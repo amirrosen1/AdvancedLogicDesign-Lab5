@@ -1,0 +1,13 @@
+*.log
+*.vcd
+*.out
+*.bak
+*.class
+*.swp
+*.vvp
+*.wlf
+*.fst
+*.asdb
+*.DS_Store
+__pycache__/
+.vscode/

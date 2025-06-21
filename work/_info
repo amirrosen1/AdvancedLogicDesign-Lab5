@@ -1,0 +1,265 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Amir Rosengarten/ModelSimProjects/lab5fifo
+vasync_fifo
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 19 sync_bridge_sv_unit 0 22 zVzDnSDfn`V_]SE^TYIR00
+Z2 !s110 1739703998
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 4T75HZ]H;Ge1JnQET;SI<2
+IX_f:SZDGi2kEKXH8SR6160
+Z4 !s105 sync_bridge_sv_unit
+S1
+Z5 dC:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir
+Z6 w1739691633
+Z7 8C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge.sv
+Z8 FC:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge.sv
+!i122 7
+L0 77 102
+Z9 OV;L;2020.1;71
+31
+Z10 !s108 1739703997.000000
+Z11 !s107 C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge.sv|
+!i113 1
+Z13 o-work work -sv
+Z14 tCvgOpt 0
+vbin2gray
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 38IPzZfO:gk42Z7BY>hnC0
+IeP8bY8UEDRIe3Yg1V?=>U1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 7
+L0 181 19
+R9
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vdff_sync
+R0
+!s110 1739703997
+!i10b 1
+!s100 ;bQ@J9jm>Jbgj5JZPR`6I1
+Z15 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFi`ATQ7LGW`PA47MPFaNn0
+R3
+S1
+R5
+Z16 w1739690716
+8C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/dff_sync.sv
+FC:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/dff_sync.sv
+!i122 6
+L0 8 46
+R9
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/dff_sync.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/dff_sync.sv|
+!i113 1
+R13
+R14
+vgray2bin
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 [0Mjg=WJEja>jVQaMK]5K3
+I]PO[AIHzgJYZlCQWlE]o41
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 7
+L0 202 14
+R9
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vpulse_sync1
+R0
+R2
+!i10b 1
+!s100 T0P4APJBj`2NiA7[omaX80
+R15
+IOb>iOnn8zBN6KFPDEcKC;3
+R3
+S1
+R5
+Z17 w1737907532
+Z18 8C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/pulse_gen.sv
+Z19 FC:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/pulse_gen.sv
+!i122 9
+L0 1 26
+R9
+r1
+!s85 0
+31
+Z20 !s108 1739703998.000000
+!s107 C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/pulse_gen.sv|
+Z21 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/pulse_gen.sv|
+!i113 1
+R13
+R14
+vpulse_sync2
+R0
+R2
+!i10b 1
+!s100 Qk1oP:0mboEOd=<W6QBmV2
+R15
+IO;>6K3j^E;n5dX?[C00ih0
+R3
+S1
+R5
+R17
+R18
+R19
+!i122 9
+L0 30 42
+R9
+r1
+!s85 0
+31
+R20
+Z22 !s107 C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/pulse_gen.sv|
+R21
+!i113 1
+R13
+R14
+vpulse_sync3
+R0
+R2
+!i10b 1
+!s100 9=I<NDhVZcmJI0zU_oXE10
+R15
+I5c5[:[2:XFS^b0dCnFg0K2
+R3
+S1
+R5
+R17
+R18
+R19
+!i122 9
+L0 73 53
+R9
+r1
+!s85 0
+31
+R20
+R22
+R21
+!i113 1
+R13
+R14
+vsync_bridge
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 0<7CT[4W;HOICfD7oA5lW1
+Iz7ciTQ>g7L4^DHI<3KFT[1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 7
+L0 7 68
+R9
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Xsync_bridge_sv_unit
+R0
+R2
+VzVzDnSDfn`V_]SE^TYIR00
+r1
+!s85 0
+!i10b 1
+!s100 ;Ih?Z[?FbQ6nh;jAUb9SZ0
+IzVzDnSDfn`V_]SE^TYIR00
+!i103 1
+S1
+R5
+R6
+R7
+R8
+!i122 7
+L0 2 0
+R9
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vsync_bridge_tb
+R0
+R2
+!i10b 1
+!s100 ezF?9Sez>H1^WP9I:^?D`0
+R15
+IR5CC6E5ZzRzV^Y147zN7L2
+R3
+S1
+R5
+R16
+8C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge_tb.sv
+FC:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge_tb.sv
+!i122 8
+L0 2 120
+R9
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Amir Rosengarten/ModelSimProjects/lab5_amir/sync_bridge_tb.sv|
+!i113 1
+R13
+R14

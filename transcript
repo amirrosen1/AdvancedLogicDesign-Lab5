@@ -1,0 +1,5 @@
+# Compile of dff_sync.sv was successful.
+# Compile of sync_bridge.sv was successful.
+# Compile of sync_bridge_tb.sv was successful.
+# Compile of pulse_gen.sv was successful.
+# 4 compiles, 0 failed with no errors.
